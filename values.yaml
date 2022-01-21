@@ -1,0 +1,5 @@
+api:
+  token: TOKEN
+storageclass:
+  name: hcloud-volumes
+  isDefault: true

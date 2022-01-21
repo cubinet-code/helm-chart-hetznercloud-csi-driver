@@ -1,0 +1,7 @@
+apiVersion: v2
+name: hetznercloud-csi-driver
+description: Container Storage Interface driver for Hetzner Cloud
+type: application
+version: 0.1.0
+appVersion: "1.6.0"
+kubeVersion: ">= 1.20.0"
