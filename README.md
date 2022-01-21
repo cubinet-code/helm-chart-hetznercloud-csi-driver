@@ -1,4 +1,6 @@
-# Helm Chart for Container Storage Interface driver for Hetzner Cloud
+# Hetzner Cloud CSI Helm Chart
+
+This is a Helm Chart for Container Storage Interface driver for Hetzner Cloud
 
 The chart only has few values to be configured:
 
